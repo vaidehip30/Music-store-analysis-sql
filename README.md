@@ -3,8 +3,7 @@
 SQL project to analyze online music store data
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:
-Postgre SQL,
-PgAdmin4
+MYSQL
 
 
 Schema- Music Store Database
